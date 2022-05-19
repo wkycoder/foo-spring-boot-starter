@@ -1,0 +1,10 @@
+{
+  "properties": [
+    {
+      "defaultValue": 1,
+      "name": "foo.id",
+      "description": "Default Value Is One.",
+      "type": "java.lang.Integer"
+    }
+  ]
+}

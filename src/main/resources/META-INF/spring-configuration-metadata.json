@@ -1,0 +1,22 @@
+{
+  "groups": [
+    {
+      "name": "foo",
+      "type": "com.wky.foo.FooProperties",
+      "sourceType": "com.wky.foo.FooProperties"
+    }
+  ],
+  "properties": [
+    {
+      "name": "foo.id",
+      "type": "java.lang.Integer",
+      "sourceType": "com.wky.foo.FooProperties"
+    },
+    {
+      "name": "foo.name",
+      "type": "java.lang.Integer",
+      "sourceType": "com.wky.foo.FooProperties"
+    }
+  ],
+  "hints": []
+}
